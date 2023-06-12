@@ -1,0 +1,2 @@
+
+    counterB += t2;
